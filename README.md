@@ -37,3 +37,31 @@ Este projeto aborda vários conceitos importantes:
 - **`classList`:** A classe `classList` é empregada para adicionar ou remover classes CSS nos elementos e, assim, alterar as cores.
 
 - **`textContent`:** O conteúdo dos elementos é modificado para atualizar o número exibido no contador.
+
+# Review Carousel
+
+Este projeto implementa um carrossel de avaliações que permite que o usuário navegue entre diferentes reviews.
+
+![screenshot (3)](https://github.com/lucasneiva/40-JS-projects/assets/112989505/741bea81-c680-4507-9f3b-7b71119a49d9)
+
+## Recursos
+
+- Exibe avaliações com imagem, nome, cargo e texto
+- Botões de próximo e anterior para navegar entre as avaliações
+- Botão aleatório para mostrar uma avaliação aleatória
+- Usa arrays e indexação para gerenciar as avaliações  
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- Manipulação de DOM
+
+## Conceitos Principais
+
+- Arrays para armazenar dados 
+- Adicionar event listeners
+- Alterar propriedades de elementos DOM
+- Indexação de arrays
+- Gerar números aleatórios
