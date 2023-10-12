@@ -28,7 +28,7 @@ h1 {
 p {
     font-size: 6em;
     font-weight: 600;
-    color: rebeccapurple;
+    color: black;
 }
 
 .negativeNumber {
@@ -40,5 +40,5 @@ p {
 }
 
 .zero {
-    color: rebeccapurple;
+    color: black;
 }

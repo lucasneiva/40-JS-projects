@@ -11,6 +11,3 @@ Uma aplicação web simples que muda a cor de fundo aleatoriamente quando um bot
 - Gerar números aleatórios com `Math.floor()` e `Math.random()`
 - Acessar o tamanho de um array com `array.length`
 
-## Exemplos
-
-Você pode ver um exemplo ao vivo deste projeto [clicando aqui](#) (insira o link para a demonstração ao vivo).
