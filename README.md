@@ -2,6 +2,9 @@
 
 Uma aplicação web simples que muda a cor de fundo aleatoriamente quando um botão é clicado. Este projeto foi feito para começar a trabalhar com o Modelo de Objeto de Documento (DOM) e JavaScript básico.
 
+![screenshot](https://github.com/lucasneiva/40-JS-projects/assets/112989505/5e5dbdd3-2707-434e-9a5d-ef387d5a25ea)
+
+
 ## Conceitos-Chave
 
 - Arrays
